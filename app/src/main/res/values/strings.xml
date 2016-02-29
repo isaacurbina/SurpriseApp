@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Surprise</string>
+    <string name="txtView1">Welcome, click the next button to start</string>
+    <string name="btn1">Surprise me</string>
+    <string name="txtView2">Sign Up</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="edtxtLNameHint">Last Name</string>
+    <string name="edtxtFNameHint">First Name</string>
+    <string name="edtxtEmailHint">Email</string>
+    <string name="edtxtPhone">Phone Number</string>
+    <string name="radioSex1">Male</string>
+    <string name="radioSex2">Female</string>
+    <string name="btnSubmit1">Next</string>
+    <string name="txtView3">Profile Photo</string>
+    <string name="btnSubmit2">Take Photo</string>
+    <string name="btnSubmit3">Submit</string>
+    <string name="share_action">Share</string>
+    <string-array name="sexes">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

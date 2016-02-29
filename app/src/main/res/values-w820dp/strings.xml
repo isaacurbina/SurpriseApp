@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtView1" />
+    <string name="button1">New Button</string>
+    <string name="txtView2">SignUp Form</string>
+    <string name="edtxtFName">First Name</string>
+    <string name="edtxtPhone">Phone Number</string>
+    <string name="radioSex1">Male</string>
+    <string name="radioSex2">Female</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="txtView3">Profile Photo</string>
+    <string name="btnSubmit2">Take Photo</string>
+    <string name="btnSubmit3">Submit</string>
+    <string name="share_action">Share</string>
+</resources>
